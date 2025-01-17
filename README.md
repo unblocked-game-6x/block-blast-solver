@@ -1,4 +1,4 @@
-# Block Blast Solver: Solve Puzzles with Ease!
+# [Block Blast Solver](https://blockblastsolverfree.com/) : Solve Puzzles with Ease!
 Block Blast is an engaging puzzle game where you strategically place blocks to clear lines and score high points. But some levels can be incredibly challenging, leaving you stuck and frustrated. That’s where the Block Blast Solver comes in handy!
 In this post, we’ll explore how you can use a solver to overcome tough puzzles, improve your gameplay, and enjoy Block Blast like never before.
 
